@@ -1,79 +1,58 @@
-<div align="center">
-
-# 🍌 香蕉视频 · 官方 GitHub 导航站
-
-**Xiangjiao Video · Official Anti-Lost Portal**
-
-[![Official](https://img.shields.io/badge/官方认证-香蕉视频-f5c518?style=for-the-badge)](https://xj4p.com)
-[![Permanent](https://img.shields.io/badge/主域名-xj4p.com-2ecc71?style=for-the-badge)](https://xj4p.com)
-[![Nav](https://img.shields.io/badge/导航页-xj4p1.com-3498db?style=for-the-badge)](https://xj4p1.com)
-[![Telegram](https://img.shields.io/badge/TG频道-第一时间更新-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/yytgxiaodui00)
-
-这里是 **香蕉视频** 的官方 GitHub 镜像与防走失发布页。  
-遇到网络波动或域名打不开时，请以本页公布的最新线路为准。
-
-**👉 请先 Star ⭐️ 本仓库，避免走失**
-
+欢迎来到 花魁短剧（Huakui Drama） GitHub 导航与防走失信息页。
+建议将本仓库加入收藏，保存永久主站及备用导航地址。若遇到网站无法访问，可依次尝试下方其他入口。
+👉 点击右上角 Star ⭐ 收藏本仓库，方便日后找回！
 </div>
 
----
+🌐 官方网站 · 核心入口
+📌 请收藏永久地址，并保存至少一个备用导航页。以下链接由花魁短剧提供，请注意核对域名，谨防仿冒网站。
 
-## 🌐 官方核心通道
+入口类型	访问地址	说明
+🏠 永久主站	huakui.com	⭐ 推荐优先收藏
+🚀 最新导航页	huakui1.com	备用导航入口
+⚡ 备用导航 1	huakui2.com	备用网址
+⚡ 备用导航 2	huakui3.com	备用网址
 
-> 请认准以下官方唯一指定入口，切勿相信任何高仿、盗链或钓鱼网站。
 
-| 渠道类型 | 访问链接 | 状态 |
-| :---: | :---: | :---: |
-| 🏠 **永久主站** | **[xj4p.com](https://xj4p.com)** | ✅ 强烈建议收藏（需要VPN） |
-| ⚡ **备用导航 1** | [xj4p1.com](https://xj4p1.com) | 🟢 备用防走失 |
-| ⚡ **备用导航 2** | [xj4p2.com](https://xj4p2.com) | 🟢 备用防走失 |
-| ⚡ **备用导航 3** | [xj4p3.com](https://xj4p3.com) | 🟢 备用防走失 |
+🧭 多线路导航 · 快捷访问
+当主站或常用导航地址访问不顺畅时，可尝试以下独立导航线路：
+导航线路	访问地址	用途
+① 线路一	dxucg.com	备用导航线路
+② 线路二	rmfgf.com	备用导航线路
+③ 线路三	dseoq.com	备用导航线路
 
----
 
-## 🧭 国内快捷分流
+💡 不同网络环境下，各入口的实际访问情况可能有所差异。请以能够正常打开的页面为准。
 
-访问主站较慢或不稳定时，优先切换下面三条国内线路：
+📢 社交媒体 · 社群交流 · 商务合作
+如需获取动态、参与交流或洽谈合作，可通过下方渠道联系：
+平台 / 渠道	账号或链接	用途
+🐦 X（Twitter）	@huakuidrama	品牌动态与信息发布
+💬 Telegram 社群	@huakuiduanjuvip	社群交流及相关资讯
+🤝 商务 Telegram	@zhaoshanshan888	商务合作与业务洽谈
 
-| 线路 | 访问链接 | 说明 |
-| :---: | :---: | :---: |
-| ① 线路一 | **[fsctrj.com](https://fsctrj.com)** | 国内直连 |
-| ② 线路二 | **[bbzghg.com](https://bbzghg.com)** | 国内直连 |
-| ③ 线路三 | **[rucwmi.com](https://rucwmi.com)** | 国内直连 |
 
----
+🔔 若常用网站入口暂时无法访问，可通过上方社交账号查看是否发布了地址更新。
 
-## 📢 官方社交媒体
-
-网页全部打不开时，请立刻改走以下渠道获取新域名：
-
-| 平台 | 账号 / 地址 | 用途 |
-| :---: | :--- | :--- |
-| 📣 **Telegram 官方频道** | [t.me/yytgxiaodui00](https://t.me/yytgxiaodui00) | ⭐ 最重要 · 新域名首发 |
-| 💬 **Telegram 交流群** | [t.me/caomeisp](https://t.me/caomeisp) | 交流讨论 |
-| 🐦 **官方 X (Twitter)** | [x.com/gosipinfo](https://x.com/gosipinfo) | 备用发布 |
-| ✉️ **官方邮箱** | [xiangjiaovideo@gmail.com](mailto:xiangjiaovideo@gmail.com) | 商务 / 反馈 |
-
----
-
-## 💡 防走失指南
-
-1. 按下键盘 **`D`**，或点击页面右上角 **Star ⭐️** 收藏本仓库  
-2. 把本页加入浏览器书签，方便随时找回  
-3. 网页打不开时：先清缓存，再换公共 DNS（`1.1.1.1` 或 `8.8.8.8`）  
-4. 国内打不开时：优先试「国内快捷分流」三条线路  
-5. 全线失效时：打开 Telegram 频道 [@yytgxiaodui00](https://t.me/yytgxiaodui00) 看最新域名
-
----
-
+💡 防走失指南
+1. Star ⭐ 本仓库：点击 GitHub 页面右上角的 Star，方便以后快速找到本页。
+2. 保存永久域名：将 https://huakui.com 加入浏览器书签。
+3. 备份导航地址：同时保存 huakui1.com、huakui2.com 和 huakui3.com。
+4. 依次切换线路：遇到某个入口打不开时，可以尝试三条独立导航线路。
+5. 关注社交渠道：访问 X @huakuidrama 或加入 Telegram 社群，关注相关通知。
+6. 注意识别网址：避免通过来历不明的仿冒链接提交账号、密码或支付信息。
+❓ 常见问题
+Q：花魁短剧永久网址是什么？
+A：永久地址为 https://huakui.com。
+Q：主站无法访问怎么办？
+A：可尝试 huakui1.com、huakui2.com、huakui3.com，或上方三条独立导航线路。
+Q：在哪里联系商务合作？
+A：通过 Telegram 联系 @zhaoshanshan888。
 <div align="center">
 
-### 🍉 吃瓜防走失
-
-**Star 本仓库 + 收藏主域名 + 关注 TG 频道**
-
-[🌐 打开主域名](https://xj4p.com)　·　[🚀 打开导航页](https://xj4p1.com)　·　[📣 关注 TG 频道](https://t.me/yytgxiaodui00)
-
-感谢您对 **香蕉视频** 的支持与信任
-
+🌸 花魁短剧 · 精彩不断，收藏不迷路
+⭐ Star 本仓库 · 🌐 收藏永久主站 · 💬 加入 TG 社群
+🌐 访问永久主站 · 🚀 打开最新导航 · 💬 加入 Telegram 社群
+🐦 关注 X · 🤝 商务合作
+感谢您对花魁短剧的关注与支持！ 🌷
+<sub>Huakui Drama · GitHub Navigation & Links</sub>
 </div>
